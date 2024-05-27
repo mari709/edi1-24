@@ -1,2 +1,2 @@
-# edi1-24
-Diseño Web
+# EDI I: Diseño Web - Año 2024
+- ## Listas (HTML)
