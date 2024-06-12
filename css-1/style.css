@@ -2,6 +2,11 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-family: "Caveat", cursive;
+    font-size: 48px;
+
+}
 p {
     color:blueviolet;
 }
