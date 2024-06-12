@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+p {
+    color:blueviolet;
+}
+
+h2 {
+    color: brown;
+}
+
+#mi-primer-titulo-secundario {
+    color: aquamarine;
+}
+
+.mi-titulo {
+    color: green;
+}
+
+.contenedor {
+    background-color: pink;
+    margin: 10px 40px; 
+    padding: 20px;
+    border-radius: 12px;
+}
