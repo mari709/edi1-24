@@ -8,3 +8,6 @@
 
 - ## Practica inicial CSS
     https://mari709.github.io/edi1-24/css-1/
+
+- ## Modelo de caja
+  https://mari709.github.io/edi1-24/modelo-de-caja/modelo-caja.html
